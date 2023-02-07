@@ -3,40 +3,13 @@
   
      
 
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
-      "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
-      "native_or_mrec_1":"native",
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "inter_or_reward":"inter",
+      "native_type":"admob",
+      "reward_type":"admob",
+      "native_or_mrec":"native",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
-      "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
-      "native_or_mrec_2":"native",
-
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
-      "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
-      "native_or_mrec_3":"native",
-
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
-      "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
-      "native_or_mrec_4":"native",
-
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
-      "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
-      "native_or_mrec_5":"native",
 
      
 
@@ -51,101 +24,79 @@
       "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
       "native_id_1":"ca-app-pub-3940256099942544/2247696110",
-    
 
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
-    
 
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
-    
+      "showRateUs" : true,
+      "gameLink": "game link here"
+
   
     },
     "guideData": [
     {
-      "image_link": "https://iili.io/H0QnabR.jpg",
-      "title": "barvikha rp android 1",
-        "text_Content": "Barvikha RP Android is a high-end luxury android developed by Russian company, Barvikha Luxury Village. It is designed to provide a level of service and luxury that is unmatched in the field of android technology.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0QnYOv.jpg",
-      "title": "barvikha rp android 2",
-        "text_Content": "The Barvikha RP Android is built on the latest advancements in artificial intelligence and robotics technology. It features advanced natural language processing capabilities, allowing it to understand and respond to a wide range of human speech and commands. Its movements are smooth and natural, making it indistinguishable from a human being in many cases.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 2",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0Qn5Ja.jpg",
-      "title": "barvikha rp android 3",
-        "text_Content": "One of the key features of the Barvikha RP Android is its ability to learn and adapt to its environment and the preferences of its owner. It can learn the routines and habits of its owner, as well as their preferred settings for lighting, temperature, and other factors. It can also be programmed to recognize and respond to specific voices and faces, providing a level of security and privacy that is unmatched by other android models.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 3",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     }
     ,{
-      "image_link": "https://iili.io/H0Qn75J.jpg",
-      "title": "barvikha rp android 4",
-        "text_Content": "The Barvikha RP Android is also designed to provide a high level of comfort and luxury. It features a sleek and stylish design that is both elegant and functional. Its body is made from lightweight, yet durable materials that are resistant to wear and tear. Its skin is made from a special silicone material that feels soft and natural to the touch.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 4",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0Qnlxp.jpg",
-      "title": "barvikha rp android 5",
-        "text_Content": "In terms of functionality, the Barvikha RP Android is capable of performing a wide range of tasks. It can be used as a personal assistant, performing tasks such as scheduling appointments and managing emails. It can also be used as a butler or a companion, providing entertainment and conversation. It can also be programmed for specific tasks, such as security or surveillance.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 5",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0Qn1sI.jpg",
-      "title": "barvikha rp android 6",
-        "text_Content": "The Barvikha RP Android is also equipped with a range of sensors and cameras that allow it to navigate its environment and respond to its surroundings. It can detect obstacles and navigate around them, as well as recognize and respond to different types of objects and surfaces.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 6",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0QnGft.jpg",
-      "title": "barvikha rp android 7",
-        "text_Content": "Overall, the Barvikha RP Android is a truly revolutionary product that sets a new standard for luxury and functionality in the field of android technology. Its advanced AI capabilities, sleek design, and high level of comfort and luxury make it the ultimate personal companion for anyone who wants the best of the best.",
-        "text_Content_1": ""
+      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 7",
+        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
+        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
 
 
 

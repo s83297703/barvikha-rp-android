@@ -3,13 +3,14 @@
   
      
 
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "inter_or_reward":"inter",
-      "native_type":"yandex",
-      "reward_type":"yandex",
-      "native_or_mrec":"native",
+      "banner_type_1":"admob",
+      "inter_type_1":"admob",
+      "inter_or_reward_1":"inter",
+      "native_type_1":"admob",
+      "reward_type_1":"admob",
+      "native_or_mrec_1":"native",
 
+      
 
      
 
@@ -19,16 +20,15 @@
 
      
 
-      "banner_id_1":"R-M-2184958-1",
-      "interstitial_id_1":"R-M-2184958-3",
-      "reward_id_1":"R-M-2184958-4",
+      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
+      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"R-M-2184958-2",
+      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
+    
 
-
-      "showRateUs" : true,
-      "gameLink": "game link here"
-
+      "showRateUs":true,
+      "gameLink":"https://wallpaper.dog/large/20487356.jpg" 
   
     },
     "guideData": [

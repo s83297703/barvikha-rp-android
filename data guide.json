@@ -3,11 +3,11 @@
   
      
 
-      "banner_type":"admob",
-      "inter_type":"admob",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
       "inter_or_reward":"inter",
-      "native_type":"admob",
-      "reward_type":"admob",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       "native_or_mrec":"native",
 
 
@@ -19,11 +19,11 @@
 
      
 
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
+      "banner_id_1":"R-M-2184958-1",
+      "interstitial_id_1":"R-M-2184958-3",
+      "reward_id_1":"R-M-2184958-4",
       "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"R-M-2184958-2",
 
 
       "showRateUs" : true,
